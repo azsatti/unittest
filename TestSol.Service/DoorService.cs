@@ -106,12 +106,12 @@ namespace TestSol.Service
             return doorNumbers.Count();
         }
 
-        internal static int GetTotalHousesOnNorthSide(IEnumerable<int> doorNumbers)
+        public static int GetTotalHousesOnNorthSide(IEnumerable<int> doorNumbers)
         {
             return doorNumbers.Count(IsOdd);
         }
 
-        internal static int GetTotalHousesOnSouth(IEnumerable<int> doorNumbers)
+        public static int GetTotalHousesOnSouth(IEnumerable<int> doorNumbers)
         {
             return doorNumbers.Count(x => !IsOdd(x));
         }

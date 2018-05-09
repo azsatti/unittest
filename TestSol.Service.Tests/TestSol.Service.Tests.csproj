@@ -80,6 +80,8 @@
   <ItemGroup>
     <Compile Include="AcceptanceTest\TownPlanner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TownPlannerTests\WhenTestingNorthSideOfStreet.cs" />
+    <Compile Include="TownPlannerTests\WhenTestingSouthSideOfStreet.cs" />
     <Compile Include="TownPlannerTests\WhenTestingTotalNumberofHouses.cs" />
   </ItemGroup>
   <ItemGroup>
