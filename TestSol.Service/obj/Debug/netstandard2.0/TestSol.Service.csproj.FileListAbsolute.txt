@@ -1,0 +1,9 @@
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\bin\Debug\netstandard2.0\TestSol.Service.deps.json
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\bin\Debug\netstandard2.0\TestSol.Service.dll
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\bin\Debug\netstandard2.0\TestSol.Service.pdb
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\obj\Debug\netstandard2.0\TestSol.Service.csprojResolveAssemblyReference.cache
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\obj\Debug\netstandard2.0\TestSol.Service.csproj.CoreCompileInputs.cache
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\obj\Debug\netstandard2.0\TestSol.Service.AssemblyInfoInputs.cache
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\obj\Debug\netstandard2.0\TestSol.Service.AssemblyInfo.cs
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\obj\Debug\netstandard2.0\TestSol.Service.dll
+C:\Aftab\CodeAZ\TestSol\TestSol.Service\TestSol.Service\obj\Debug\netstandard2.0\TestSol.Service.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSol.Service", "TestSol.Service\TestSol.Service.csproj", "{9771C4F1-9C94-4D7D-B960-158CE17DEA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSol.Service.Tests", "TestSol.Service.Tests\TestSol.Service.Tests.csproj", "{02F2FC75-2AE3-4DFF-AA8A-5F47E891FF6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9253E42F-4A1D-4E34-8F8C-774DE50096F8}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9771C4F1-9C94-4D7D-B960-158CE17DEA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9771C4F1-9C94-4D7D-B960-158CE17DEA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9771C4F1-9C94-4D7D-B960-158CE17DEA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9771C4F1-9C94-4D7D-B960-158CE17DEA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F2FC75-2AE3-4DFF-AA8A-5F47E891FF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F2FC75-2AE3-4DFF-AA8A-5F47E891FF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F2FC75-2AE3-4DFF-AA8A-5F47E891FF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F2FC75-2AE3-4DFF-AA8A-5F47E891FF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89895968-5EE3-4187-B1B6-FB39E257B5E0}
+	EndGlobalSection
+EndGlobal
